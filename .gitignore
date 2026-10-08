@@ -1,0 +1,8 @@
+# Not for participants: slides, papers, data preparation, drafts
+internal/
+
+# Local and system files
+.vscode/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
